@@ -1,0 +1,1559 @@
+{
+  "1": [
+    {
+      "stash": 1,
+      "r": 0,
+      "c": 0,
+      "nome": "CometStaff",
+      "grade": "arcana",
+      "nivel": 40
+    },
+    {
+      "stash": 1,
+      "r": 0,
+      "c": 1,
+      "nome": "ArcaneOrb",
+      "grade": "arcana",
+      "nivel": 40
+    },
+    {
+      "stash": 1,
+      "r": 0,
+      "c": 2,
+      "nome": "RuneSword",
+      "grade": "immortal",
+      "nivel": 40
+    },
+    {
+      "stash": 1,
+      "r": 0,
+      "c": 3,
+      "nome": "VengeanceSword",
+      "grade": "immortal",
+      "nivel": 65
+    },
+    {
+      "stash": 1,
+      "r": 0,
+      "c": 4,
+      "nome": "EliteBow",
+      "grade": "immortal",
+      "nivel": 40
+    },
+    {
+      "stash": 1,
+      "r": 0,
+      "c": 5,
+      "nome": "EliteShield",
+      "grade": "immortal",
+      "nivel": 40
+    },
+    {
+      "stash": 1,
+      "r": 0,
+      "c": 6,
+      "nome": "Mystic Shield",
+      "grade": "immortal",
+      "nivel": 50
+    },
+    {
+      "stash": 1,
+      "r": 1,
+      "c": 0,
+      "nome": "RadiantShieId",
+      "grade": "immortal",
+      "nivel": null
+    },
+    {
+      "stash": 1,
+      "r": 1,
+      "c": 1,
+      "nome": "RuneGloves",
+      "grade": "immortal",
+      "nivel": 40
+    },
+    {
+      "stash": 1,
+      "r": 1,
+      "c": 2,
+      "nome": "RuneBoots",
+      "grade": "immortal",
+      "nivel": 40
+    },
+    {
+      "stash": 1,
+      "r": 1,
+      "c": 3,
+      "nome": "FateSword",
+      "grade": "legendary",
+      "nivel": 50
+    },
+    {
+      "stash": 1,
+      "r": 1,
+      "c": 4,
+      "nome": "VengeanceSword",
+      "grade": "legendary",
+      "nivel": 65
+    },
+    {
+      "stash": 1,
+      "r": 1,
+      "c": 5,
+      "nome": "SacredStaff",
+      "grade": "legendary",
+      "nivel": 65
+    },
+    {
+      "stash": 1,
+      "r": 1,
+      "c": 6,
+      "nome": "SacredStaff",
+      "grade": "legendary",
+      "nivel": 65
+    },
+    {
+      "stash": 1,
+      "r": 2,
+      "c": 0,
+      "nome": "LimitlessScepter",
+      "grade": "legendary",
+      "nivel": 65
+    },
+    {
+      "stash": 1,
+      "r": 2,
+      "c": 1,
+      "nome": "Warrior'sTome",
+      "grade": "legendary",
+      "nivel": 65
+    },
+    {
+      "stash": 1,
+      "r": 2,
+      "c": 2,
+      "nome": "WarHelmet",
+      "grade": "legendary",
+      "nivel": 30
+    },
+    {
+      "stash": 1,
+      "r": 2,
+      "c": 3,
+      "nome": "Rune Helmet",
+      "grade": "legendary",
+      "nivel": 40
+    },
+    {
+      "stash": 1,
+      "r": 2,
+      "c": 4,
+      "nome": "FateHelmet",
+      "grade": "legendary",
+      "nivel": 50
+    },
+    {
+      "stash": 1,
+      "r": 2,
+      "c": 5,
+      "nome": "FateHelmet",
+      "grade": "legendary",
+      "nivel": 50
+    },
+    {
+      "stash": 1,
+      "r": 2,
+      "c": 6,
+      "nome": "FateHelmet",
+      "grade": "legendary",
+      "nivel": 50
+    },
+    {
+      "stash": 1,
+      "r": 3,
+      "c": 0,
+      "nome": "Rune Plate",
+      "grade": "legendary",
+      "nivel": 40
+    },
+    {
+      "stash": 1,
+      "r": 3,
+      "c": 1,
+      "nome": "RunePlate",
+      "grade": "legendary",
+      "nivel": 40
+    },
+    {
+      "stash": 1,
+      "r": 3,
+      "c": 2,
+      "nome": "MysticArmor",
+      "grade": "legendary",
+      "nivel": 50
+    },
+    {
+      "stash": 1,
+      "r": 3,
+      "c": 3,
+      "nome": "ShineArmor",
+      "grade": "legendary",
+      "nivel": 65
+    },
+    {
+      "stash": 1,
+      "r": 3,
+      "c": 4,
+      "nome": "KnightGloves",
+      "grade": "legendary",
+      "nivel": 15
+    },
+    {
+      "stash": 1,
+      "r": 3,
+      "c": 5,
+      "nome": "MysticGloves",
+      "grade": "legendary",
+      "nivel": 50
+    },
+    {
+      "stash": 1,
+      "r": 3,
+      "c": 6,
+      "nome": "WarBoots",
+      "grade": "legendary",
+      "nivel": 30
+    },
+    {
+      "stash": 1,
+      "r": 4,
+      "c": 0,
+      "nome": "WarBoots",
+      "grade": "legendary",
+      "nivel": 30
+    },
+    {
+      "stash": 1,
+      "r": 4,
+      "c": 1,
+      "nome": "Mystic Boots",
+      "grade": "legendary",
+      "nivel": 50
+    },
+    {
+      "stash": 1,
+      "r": 4,
+      "c": 2,
+      "nome": "Vengeance Sword",
+      "grade": "rare",
+      "nivel": 65
+    },
+    {
+      "stash": 1,
+      "r": 4,
+      "c": 3,
+      "nome": "MysticArmor",
+      "grade": "rare",
+      "nivel": 50
+    },
+    {
+      "stash": 1,
+      "r": 4,
+      "c": 4,
+      "nome": "ShineGloves",
+      "grade": "rare",
+      "nivel": 65
+    },
+    {
+      "stash": 1,
+      "r": 4,
+      "c": 5,
+      "nome": "Mystic Bow",
+      "grade": "uncommon",
+      "nivel": 50
+    },
+    {
+      "stash": 1,
+      "r": 4,
+      "c": 6,
+      "nome": "LimitlessBow",
+      "grade": "uncommon",
+      "nivel": 65
+    },
+    {
+      "stash": 1,
+      "r": 5,
+      "c": 0,
+      "nome": "SacredStaff",
+      "grade": "uncommon",
+      "nivel": 65
+    },
+    {
+      "stash": 1,
+      "r": 5,
+      "c": 1,
+      "nome": "LimitlessScepter",
+      "grade": "uncommon",
+      "nivel": 65
+    },
+    {
+      "stash": 1,
+      "r": 5,
+      "c": 2,
+      "nome": "Fighter's Helmet",
+      "grade": "uncommon",
+      "nivel": 65
+    },
+    {
+      "stash": 1,
+      "r": 5,
+      "c": 3,
+      "nome": "Fighter's Helmet",
+      "grade": "uncommon",
+      "nivel": 65
+    },
+    {
+      "stash": 1,
+      "r": 5,
+      "c": 4,
+      "nome": "ShineGloves",
+      "grade": "uncommon",
+      "nivel": 65
+    },
+    {
+      "stash": 1,
+      "r": 5,
+      "c": 5,
+      "nome": "ShineGloves",
+      "grade": "uncommon",
+      "nivel": 65
+    },
+    {
+      "stash": 1,
+      "r": 5,
+      "c": 6,
+      "nome": "Vengeance Sword",
+      "grade": "common",
+      "nivel": 65
+    },
+    {
+      "stash": 1,
+      "r": 6,
+      "c": 0,
+      "nome": "LimitlessBow",
+      "grade": "common",
+      "nivel": 65
+    },
+    {
+      "stash": 1,
+      "r": 6,
+      "c": 1,
+      "nome": "LimitlessBow",
+      "grade": "common",
+      "nivel": 65
+    },
+    {
+      "stash": 1,
+      "r": 6,
+      "c": 2,
+      "nome": "SacredStaff",
+      "grade": "common",
+      "nivel": 65
+    },
+    {
+      "stash": 1,
+      "r": 6,
+      "c": 3,
+      "nome": "Fighter's Helmet",
+      "grade": "common",
+      "nivel": 65
+    },
+    {
+      "stash": 1,
+      "r": 6,
+      "c": 4,
+      "nome": "ShineArmor",
+      "grade": "common",
+      "nivel": 65
+    },
+    {
+      "stash": 1,
+      "r": 6,
+      "c": 5,
+      "nome": "ShineArmor",
+      "grade": "common",
+      "nivel": 65
+    },
+    {
+      "stash": 1,
+      "r": 6,
+      "c": 6,
+      "nome": "ShineArmor",
+      "grade": "common",
+      "nivel": 65
+    }
+  ],
+  "2": [
+    {
+      "stash": 2,
+      "r": 0,
+      "c": 0,
+      "nome": "Bloodstone",
+      "grade": "immortal",
+      "nivel": null
+    },
+    {
+      "stash": 2,
+      "r": 0,
+      "c": 1,
+      "nome": "Bloodstone",
+      "grade": "immortal",
+      "nivel": null
+    },
+    {
+      "stash": 2,
+      "r": 0,
+      "c": 2,
+      "nome": "Bloodstone",
+      "grade": "immortal",
+      "nivel": null
+    },
+    {
+      "stash": 2,
+      "r": 0,
+      "c": 3,
+      "nome": "Bloodstone",
+      "grade": "immortal",
+      "nivel": null
+    },
+    {
+      "stash": 2,
+      "r": 0,
+      "c": 4,
+      "nome": "Thunderstone",
+      "grade": "immortal",
+      "nivel": null
+    },
+    {
+      "stash": 2,
+      "r": 0,
+      "c": 5,
+      "nome": "Thunderstone",
+      "grade": "immortal",
+      "nivel": null
+    },
+    {
+      "stash": 2,
+      "r": 0,
+      "c": 6,
+      "nome": "StardustIngot",
+      "grade": "legendary",
+      "nivel": null
+    },
+    {
+      "stash": 2,
+      "r": 1,
+      "c": 0,
+      "nome": "StardustIngot",
+      "grade": "legendary",
+      "nivel": null
+    },
+    {
+      "stash": 2,
+      "r": 1,
+      "c": 1,
+      "nome": "StardustIngot",
+      "grade": "legendary",
+      "nivel": null
+    },
+    {
+      "stash": 2,
+      "r": 1,
+      "c": 2,
+      "nome": "StardustIngot",
+      "grade": "legendary",
+      "nivel": null
+    },
+    {
+      "stash": 2,
+      "r": 1,
+      "c": 3,
+      "nome": "VoidIron",
+      "grade": "legendary",
+      "nivel": null
+    },
+    {
+      "stash": 2,
+      "r": 1,
+      "c": 4,
+      "nome": "Void Iron",
+      "grade": "legendary",
+      "nivel": null
+    },
+    {
+      "stash": 2,
+      "r": 1,
+      "c": 5,
+      "nome": "SilverIngot",
+      "grade": "rare",
+      "nivel": null
+    },
+    {
+      "stash": 2,
+      "r": 1,
+      "c": 6,
+      "nome": "Silver Ingot",
+      "grade": "rare",
+      "nivel": null
+    },
+    {
+      "stash": 2,
+      "r": 2,
+      "c": 0,
+      "nome": "Silver Ingot",
+      "grade": "rare",
+      "nivel": null
+    },
+    {
+      "stash": 2,
+      "r": 2,
+      "c": 1,
+      "nome": "silverIngot",
+      "grade": "rare",
+      "nivel": null
+    },
+    {
+      "stash": 2,
+      "r": 2,
+      "c": 2,
+      "nome": "Silver Ingot",
+      "grade": "rare",
+      "nivel": null
+    },
+    {
+      "stash": 2,
+      "r": 2,
+      "c": 3,
+      "nome": "Silver Ingot",
+      "grade": "rare",
+      "nivel": null
+    },
+    {
+      "stash": 2,
+      "r": 2,
+      "c": 4,
+      "nome": "Silver Ingot",
+      "grade": "rare",
+      "nivel": null
+    },
+    {
+      "stash": 2,
+      "r": 2,
+      "c": 5,
+      "nome": "SilverIngot",
+      "grade": "rare",
+      "nivel": null
+    },
+    {
+      "stash": 2,
+      "r": 2,
+      "c": 6,
+      "nome": "Silver Ingot",
+      "grade": "rare",
+      "nivel": null
+    },
+    {
+      "stash": 2,
+      "r": 3,
+      "c": 0,
+      "nome": "Silver Ingot",
+      "grade": "rare",
+      "nivel": null
+    },
+    {
+      "stash": 2,
+      "r": 3,
+      "c": 1,
+      "nome": "silverIngot",
+      "grade": "rare",
+      "nivel": null
+    },
+    {
+      "stash": 2,
+      "r": 3,
+      "c": 2,
+      "nome": "Silver Ingot",
+      "grade": "rare",
+      "nivel": null
+    },
+    {
+      "stash": 2,
+      "r": 3,
+      "c": 3,
+      "nome": "Silver Ingot",
+      "grade": "rare",
+      "nivel": null
+    },
+    {
+      "stash": 2,
+      "r": 3,
+      "c": 4,
+      "nome": "Gold Ingot",
+      "grade": "rare",
+      "nivel": null
+    },
+    {
+      "stash": 2,
+      "r": 3,
+      "c": 5,
+      "nome": "Gold Ingot",
+      "grade": "rare",
+      "nivel": null
+    },
+    {
+      "stash": 2,
+      "r": 3,
+      "c": 6,
+      "nome": "Gold Ingot",
+      "grade": "rare",
+      "nivel": null
+    },
+    {
+      "stash": 2,
+      "r": 4,
+      "c": 0,
+      "nome": "Gold Ingot",
+      "grade": "rare",
+      "nivel": null
+    },
+    {
+      "stash": 2,
+      "r": 4,
+      "c": 1,
+      "nome": "Gold Ingot",
+      "grade": "rare",
+      "nivel": null
+    },
+    {
+      "stash": 2,
+      "r": 4,
+      "c": 2,
+      "nome": "Gold Ingot",
+      "grade": "rare",
+      "nivel": null
+    },
+    {
+      "stash": 2,
+      "r": 4,
+      "c": 3,
+      "nome": "Gold Ingot",
+      "grade": "rare",
+      "nivel": null
+    },
+    {
+      "stash": 2,
+      "r": 4,
+      "c": 4,
+      "nome": "Gold Ingot",
+      "grade": "rare",
+      "nivel": null
+    },
+    {
+      "stash": 2,
+      "r": 4,
+      "c": 5,
+      "nome": "Gold Ingot",
+      "grade": "rare",
+      "nivel": null
+    },
+    {
+      "stash": 2,
+      "r": 4,
+      "c": 6,
+      "nome": "Gold Ingot",
+      "grade": "rare",
+      "nivel": null
+    },
+    {
+      "stash": 2,
+      "r": 5,
+      "c": 0,
+      "nome": "Gold Ingot",
+      "grade": "rare",
+      "nivel": null
+    },
+    {
+      "stash": 2,
+      "r": 5,
+      "c": 1,
+      "nome": "BronzeIngot",
+      "grade": "uncommon",
+      "nivel": null
+    },
+    {
+      "stash": 2,
+      "r": 5,
+      "c": 2,
+      "nome": "Bronze Ingot",
+      "grade": "uncommon",
+      "nivel": null
+    },
+    {
+      "stash": 2,
+      "r": 5,
+      "c": 3,
+      "nome": "Bronze Ingot",
+      "grade": "uncommon",
+      "nivel": null
+    },
+    {
+      "stash": 2,
+      "r": 5,
+      "c": 4,
+      "nome": "Bronze Ingot",
+      "grade": "uncommon",
+      "nivel": null
+    },
+    {
+      "stash": 2,
+      "r": 5,
+      "c": 5,
+      "nome": "Iron Ingot",
+      "grade": "uncommon",
+      "nivel": null
+    },
+    {
+      "stash": 2,
+      "r": 5,
+      "c": 6,
+      "nome": "Iron Ingot",
+      "grade": "uncommon",
+      "nivel": null
+    },
+    {
+      "stash": 2,
+      "r": 6,
+      "c": 0,
+      "nome": "Iron Ingot",
+      "grade": "uncommon",
+      "nivel": null
+    },
+    {
+      "stash": 2,
+      "r": 6,
+      "c": 1,
+      "nome": "Iron Ingot",
+      "grade": "uncommon",
+      "nivel": null
+    },
+    {
+      "stash": 2,
+      "r": 6,
+      "c": 2,
+      "nome": "CopperNugget",
+      "grade": "common",
+      "nivel": null
+    },
+    {
+      "stash": 2,
+      "r": 6,
+      "c": 3,
+      "nome": "CopperNugget",
+      "grade": "common",
+      "nivel": null
+    }
+  ],
+  "3": [
+    {
+      "stash": 3,
+      "r": 0,
+      "c": 0,
+      "nome": "Opal",
+      "grade": "immortal",
+      "nivel": null
+    },
+    {
+      "stash": 3,
+      "r": 0,
+      "c": 1,
+      "nome": "Lapis Lazuli",
+      "grade": "immortal",
+      "nivel": null
+    },
+    {
+      "stash": 3,
+      "r": 0,
+      "c": 2,
+      "nome": "Blackpear",
+      "grade": "immortal",
+      "nivel": null
+    },
+    {
+      "stash": 3,
+      "r": 0,
+      "c": 3,
+      "nome": "Blackpear",
+      "grade": "immortal",
+      "nivel": null
+    },
+    {
+      "stash": 3,
+      "r": 0,
+      "c": 4,
+      "nome": "CrystalQuartz",
+      "grade": "legendary",
+      "nivel": null
+    },
+    {
+      "stash": 3,
+      "r": 0,
+      "c": 5,
+      "nome": "CrystalQuartz",
+      "grade": "legendary",
+      "nivel": null
+    },
+    {
+      "stash": 3,
+      "r": 0,
+      "c": 6,
+      "nome": "CrystalQuartz",
+      "grade": "legendary",
+      "nivel": null
+    },
+    {
+      "stash": 3,
+      "r": 1,
+      "c": 0,
+      "nome": "CrystalQuartz",
+      "grade": "legendary",
+      "nivel": null
+    },
+    {
+      "stash": 3,
+      "r": 1,
+      "c": 1,
+      "nome": "CrystalQuartz",
+      "grade": "legendary",
+      "nivel": null
+    },
+    {
+      "stash": 3,
+      "r": 1,
+      "c": 2,
+      "nome": "CrystalQuartz",
+      "grade": "legendary",
+      "nivel": null
+    },
+    {
+      "stash": 3,
+      "r": 1,
+      "c": 3,
+      "nome": "CrystalQuartz",
+      "grade": "legendary",
+      "nivel": null
+    },
+    {
+      "stash": 3,
+      "r": 1,
+      "c": 4,
+      "nome": "Pearl",
+      "grade": "legendary",
+      "nivel": null
+    },
+    {
+      "stash": 3,
+      "r": 1,
+      "c": 5,
+      "nome": "Pearl",
+      "grade": "legendary",
+      "nivel": null
+    },
+    {
+      "stash": 3,
+      "r": 1,
+      "c": 6,
+      "nome": "Pearl",
+      "grade": "legendary",
+      "nivel": null
+    },
+    {
+      "stash": 3,
+      "r": 2,
+      "c": 0,
+      "nome": "Turquoise",
+      "grade": "legendary",
+      "nivel": null
+    },
+    {
+      "stash": 3,
+      "r": 2,
+      "c": 1,
+      "nome": "Turquoise",
+      "grade": "legendary",
+      "nivel": null
+    },
+    {
+      "stash": 3,
+      "r": 2,
+      "c": 2,
+      "nome": "Garnet",
+      "grade": "legendary",
+      "nivel": null
+    },
+    {
+      "stash": 3,
+      "r": 2,
+      "c": 3,
+      "nome": "Garnet",
+      "grade": "legendary",
+      "nivel": null
+    },
+    {
+      "stash": 3,
+      "r": 2,
+      "c": 4,
+      "nome": "Garnet",
+      "grade": "legendary",
+      "nivel": null
+    },
+    {
+      "stash": 3,
+      "r": 2,
+      "c": 5,
+      "nome": "Garnet",
+      "grade": "legendary",
+      "nivel": null
+    },
+    {
+      "stash": 3,
+      "r": 2,
+      "c": 6,
+      "nome": "Garnet",
+      "grade": "legendary",
+      "nivel": null
+    },
+    {
+      "stash": 3,
+      "r": 3,
+      "c": 0,
+      "nome": "Garnet",
+      "grade": "legendary",
+      "nivel": null
+    },
+    {
+      "stash": 3,
+      "r": 3,
+      "c": 1,
+      "nome": "Ruby",
+      "grade": "rare",
+      "nivel": null
+    },
+    {
+      "stash": 3,
+      "r": 3,
+      "c": 2,
+      "nome": "Ruby",
+      "grade": "rare",
+      "nivel": null
+    },
+    {
+      "stash": 3,
+      "r": 3,
+      "c": 3,
+      "nome": "Ruby",
+      "grade": "rare",
+      "nivel": null
+    },
+    {
+      "stash": 3,
+      "r": 3,
+      "c": 4,
+      "nome": "Ruby",
+      "grade": "rare",
+      "nivel": null
+    },
+    {
+      "stash": 3,
+      "r": 3,
+      "c": 5,
+      "nome": "Sapphire",
+      "grade": "rare",
+      "nivel": null
+    },
+    {
+      "stash": 3,
+      "r": 3,
+      "c": 6,
+      "nome": "Topaz",
+      "grade": "rare",
+      "nivel": null
+    },
+    {
+      "stash": 3,
+      "r": 4,
+      "c": 0,
+      "nome": "Topaz",
+      "grade": "rare",
+      "nivel": null
+    },
+    {
+      "stash": 3,
+      "r": 4,
+      "c": 1,
+      "nome": "ObsidianShard",
+      "grade": "uncommon",
+      "nivel": null
+    },
+    {
+      "stash": 3,
+      "r": 4,
+      "c": 2,
+      "nome": "Obsidianshard",
+      "grade": "uncommon",
+      "nivel": null
+    },
+    {
+      "stash": 3,
+      "r": 4,
+      "c": 3,
+      "nome": "Obsidianshard",
+      "grade": "uncommon",
+      "nivel": null
+    },
+    {
+      "stash": 3,
+      "r": 4,
+      "c": 4,
+      "nome": "Coral Piece",
+      "grade": "uncommon",
+      "nivel": null
+    },
+    {
+      "stash": 3,
+      "r": 4,
+      "c": 5,
+      "nome": "JadeStone",
+      "grade": "uncommon",
+      "nivel": null
+    },
+    {
+      "stash": 3,
+      "r": 4,
+      "c": 6,
+      "nome": "AmberGem",
+      "grade": "uncommon",
+      "nivel": null
+    },
+    {
+      "stash": 3,
+      "r": 5,
+      "c": 0,
+      "nome": "AmberGem",
+      "grade": "uncommon",
+      "nivel": null
+    },
+    {
+      "stash": 3,
+      "r": 5,
+      "c": 1,
+      "nome": "AmberGem",
+      "grade": "uncommon",
+      "nivel": null
+    },
+    {
+      "stash": 3,
+      "r": 5,
+      "c": 2,
+      "nome": "Minor Emerald",
+      "grade": "common",
+      "nivel": null
+    },
+    {
+      "stash": 3,
+      "r": 5,
+      "c": 3,
+      "nome": "MinorAmethyst",
+      "grade": "common",
+      "nivel": null
+    }
+  ],
+  "4": [
+    {
+      "stash": 4,
+      "r": 0,
+      "c": 0,
+      "nome": "Mandrake Root",
+      "grade": "legendary",
+      "nivel": null
+    },
+    {
+      "stash": 4,
+      "r": 0,
+      "c": 1,
+      "nome": "Mandrake Root",
+      "grade": "legendary",
+      "nivel": null
+    },
+    {
+      "stash": 4,
+      "r": 0,
+      "c": 2,
+      "nome": "MandrakeRoot",
+      "grade": "legendary",
+      "nivel": null
+    },
+    {
+      "stash": 4,
+      "r": 0,
+      "c": 3,
+      "nome": "BatWingMembrane",
+      "grade": "rare",
+      "nivel": null
+    },
+    {
+      "stash": 4,
+      "r": 0,
+      "c": 4,
+      "nome": "Spider Silk",
+      "grade": "uncommon",
+      "nivel": null
+    },
+    {
+      "stash": 4,
+      "r": 0,
+      "c": 5,
+      "nome": "SpiderSilk",
+      "grade": "uncommon",
+      "nivel": null
+    },
+    {
+      "stash": 4,
+      "r": 0,
+      "c": 6,
+      "nome": "PoisonousHerb",
+      "grade": "uncommon",
+      "nivel": null
+    },
+    {
+      "stash": 4,
+      "r": 1,
+      "c": 0,
+      "nome": "PoisonousHerb",
+      "grade": "uncommon",
+      "nivel": null
+    },
+    {
+      "stash": 4,
+      "r": 1,
+      "c": 1,
+      "nome": "HealingHerb",
+      "grade": "uncommon",
+      "nivel": null
+    },
+    {
+      "stash": 4,
+      "r": 1,
+      "c": 2,
+      "nome": "SkeletonBone",
+      "grade": "common",
+      "nivel": null
+    }
+  ],
+  "5": [
+    {
+      "stash": 5,
+      "r": 0,
+      "c": 0,
+      "nome": "Sapphire Earring",
+      "grade": "legendary",
+      "nivel": 50
+    },
+    {
+      "stash": 5,
+      "r": 0,
+      "c": 1,
+      "nome": "MoonstonePendant",
+      "grade": "rare",
+      "nivel": 30
+    },
+    {
+      "stash": 5,
+      "r": 0,
+      "c": 2,
+      "nome": "MoonstonePendant",
+      "grade": "rare",
+      "nivel": 30
+    },
+    {
+      "stash": 5,
+      "r": 0,
+      "c": 3,
+      "nome": "EmeraldAmulet",
+      "grade": "rare",
+      "nivel": 50
+    },
+    {
+      "stash": 5,
+      "r": 0,
+      "c": 4,
+      "nome": "Emerald Earring",
+      "grade": "rare",
+      "nivel": 30
+    },
+    {
+      "stash": 5,
+      "r": 0,
+      "c": 5,
+      "nome": "Emerald Earring",
+      "grade": "rare",
+      "nivel": 30
+    },
+    {
+      "stash": 5,
+      "r": 0,
+      "c": 6,
+      "nome": "Emerald Earring",
+      "grade": "rare",
+      "nivel": 30
+    },
+    {
+      "stash": 5,
+      "r": 1,
+      "c": 0,
+      "nome": "Sapphire Earring",
+      "grade": "rare",
+      "nivel": 50
+    },
+    {
+      "stash": 5,
+      "r": 1,
+      "c": 1,
+      "nome": "Sapphire Earring",
+      "grade": "rare",
+      "nivel": 50
+    },
+    {
+      "stash": 5,
+      "r": 1,
+      "c": 2,
+      "nome": "EmeraldRing",
+      "grade": "rare",
+      "nivel": 50
+    },
+    {
+      "stash": 5,
+      "r": 1,
+      "c": 3,
+      "nome": "EmeraldRing",
+      "grade": "rare",
+      "nivel": 50
+    },
+    {
+      "stash": 5,
+      "r": 1,
+      "c": 4,
+      "nome": "ObsidianBracer",
+      "grade": "rare",
+      "nivel": 30
+    },
+    {
+      "stash": 5,
+      "r": 1,
+      "c": 5,
+      "nome": "CrimsonBracer",
+      "grade": "rare",
+      "nivel": 40
+    },
+    {
+      "stash": 5,
+      "r": 1,
+      "c": 6,
+      "nome": "EmeraldBracer",
+      "grade": "rare",
+      "nivel": 50
+    },
+    {
+      "stash": 5,
+      "r": 2,
+      "c": 0,
+      "nome": "EmeraldBracer",
+      "grade": "rare",
+      "nivel": 50
+    },
+    {
+      "stash": 5,
+      "r": 2,
+      "c": 1,
+      "nome": "EmeraldBracer",
+      "grade": "rare",
+      "nivel": 50
+    },
+    {
+      "stash": 5,
+      "r": 2,
+      "c": 2,
+      "nome": "EclipseBracer",
+      "grade": "rare",
+      "nivel": 65
+    },
+    {
+      "stash": 5,
+      "r": 2,
+      "c": 3,
+      "nome": "RubyPendant",
+      "grade": "uncommon",
+      "nivel": 40
+    },
+    {
+      "stash": 5,
+      "r": 2,
+      "c": 4,
+      "nome": "EmeraldAmulet",
+      "grade": "uncommon",
+      "nivel": 50
+    },
+    {
+      "stash": 5,
+      "r": 2,
+      "c": 5,
+      "nome": "EmeraldAmulet",
+      "grade": "uncommon",
+      "nivel": 50
+    },
+    {
+      "stash": 5,
+      "r": 2,
+      "c": 6,
+      "nome": "EmeraldEarring",
+      "grade": "uncommon",
+      "nivel": 30
+    },
+    {
+      "stash": 5,
+      "r": 3,
+      "c": 0,
+      "nome": "SapphireEarring",
+      "grade": "uncommon",
+      "nivel": 50
+    },
+    {
+      "stash": 5,
+      "r": 3,
+      "c": 1,
+      "nome": "AmethystRing",
+      "grade": "uncommon",
+      "nivel": 40
+    },
+    {
+      "stash": 5,
+      "r": 3,
+      "c": 2,
+      "nome": "EmeraldRing",
+      "grade": "uncommon",
+      "nivel": 50
+    },
+    {
+      "stash": 5,
+      "r": 3,
+      "c": 3,
+      "nome": "EmeraldRing",
+      "grade": "uncommon",
+      "nivel": 50
+    },
+    {
+      "stash": 5,
+      "r": 3,
+      "c": 4,
+      "nome": "CrimsonBracer",
+      "grade": "uncommon",
+      "nivel": 40
+    },
+    {
+      "stash": 5,
+      "r": 3,
+      "c": 5,
+      "nome": "EmeraldBracer",
+      "grade": "uncommon",
+      "nivel": 50
+    },
+    {
+      "stash": 5,
+      "r": 3,
+      "c": 6,
+      "nome": "EclipseBracer",
+      "grade": "uncommon",
+      "nivel": 65
+    }
+  ],
+  "6": [],
+  "7": [
+    {
+      "stash": 7,
+      "r": 0,
+      "c": 0,
+      "nome": "Soulstone-Hell",
+      "grade": "beyond",
+      "nivel": null
+    },
+    {
+      "stash": 7,
+      "r": 0,
+      "c": 1,
+      "nome": "Soulstone-Hell",
+      "grade": "beyond",
+      "nivel": null
+    },
+    {
+      "stash": 7,
+      "r": 0,
+      "c": 2,
+      "nome": "Soulstone-Hell",
+      "grade": "beyond",
+      "nivel": null
+    },
+    {
+      "stash": 7,
+      "r": 0,
+      "c": 3,
+      "nome": "Soulstone-Hell",
+      "grade": "beyond",
+      "nivel": null
+    },
+    {
+      "stash": 7,
+      "r": 0,
+      "c": 4,
+      "nome": "Soulstone-Hell",
+      "grade": "beyond",
+      "nivel": null
+    },
+    {
+      "stash": 7,
+      "r": 0,
+      "c": 5,
+      "nome": "Soulstone-Hell",
+      "grade": "beyond",
+      "nivel": null
+    },
+    {
+      "stash": 7,
+      "r": 0,
+      "c": 6,
+      "nome": "Soulstone-Hell",
+      "grade": "beyond",
+      "nivel": null
+    },
+    {
+      "stash": 7,
+      "r": 1,
+      "c": 0,
+      "nome": "Soulstone-Hell",
+      "grade": "beyond",
+      "nivel": null
+    },
+    {
+      "stash": 7,
+      "r": 1,
+      "c": 1,
+      "nome": "Soulstone-Hell",
+      "grade": "beyond",
+      "nivel": null
+    },
+    {
+      "stash": 7,
+      "r": 1,
+      "c": 2,
+      "nome": "Soulstone-Hell",
+      "grade": "beyond",
+      "nivel": null
+    },
+    {
+      "stash": 7,
+      "r": 1,
+      "c": 3,
+      "nome": "Soulstone-Hell",
+      "grade": "beyond",
+      "nivel": null
+    },
+    {
+      "stash": 7,
+      "r": 1,
+      "c": 4,
+      "nome": "Soulstone-Hell",
+      "grade": "beyond",
+      "nivel": null
+    },
+    {
+      "stash": 7,
+      "r": 1,
+      "c": 5,
+      "nome": "Soulstone-Hell",
+      "grade": "beyond",
+      "nivel": null
+    },
+    {
+      "stash": 7,
+      "r": 1,
+      "c": 6,
+      "nome": "Soulstone-Hell",
+      "grade": "beyond",
+      "nivel": null
+    },
+    {
+      "stash": 7,
+      "r": 2,
+      "c": 0,
+      "nome": "Soulstone-Nightmare",
+      "grade": "arcana",
+      "nivel": null
+    },
+    {
+      "stash": 7,
+      "r": 2,
+      "c": 1,
+      "nome": "Soulstone-Hell",
+      "grade": "beyond",
+      "nivel": null
+    },
+    {
+      "stash": 7,
+      "r": 2,
+      "c": 2,
+      "nome": "Soulstone-Hell",
+      "grade": "beyond",
+      "nivel": null
+    },
+    {
+      "stash": 7,
+      "r": 2,
+      "c": 3,
+      "nome": "Soulstone-Hell",
+      "grade": "beyond",
+      "nivel": null
+    },
+    {
+      "stash": 7,
+      "r": 2,
+      "c": 4,
+      "nome": "Soulstone-Hell",
+      "grade": "beyond",
+      "nivel": null
+    },
+    {
+      "stash": 7,
+      "r": 2,
+      "c": 5,
+      "nome": "Soulstone-Hell",
+      "grade": "beyond",
+      "nivel": null
+    },
+    {
+      "stash": 7,
+      "r": 2,
+      "c": 6,
+      "nome": "Soulstone-Hell",
+      "grade": "beyond",
+      "nivel": null
+    }
+  ]
+}
